@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>lightning.png</file>
+        <file>settings.png</file>
+        <file>footer_Prod_Trane.Png</file>
+        <file>document_properties.png</file>
+        <file>file_add.png</file>
+        <file>file_edit.png</file>
+        <file>recycle.png</file>
+        <file>application-exit.png</file>
+        <file>clear.png</file>
+        <file>connect.png</file>
+        <file>disconnect.png</file>
+    </qresource>
+</RCC>
